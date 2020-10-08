@@ -1,0 +1,35 @@
+
+.header{
+	display: flex;
+	padding-top: 8px;
+	flex-direction: row;
+}
+.header img{
+	width: 8.8%;
+}
+.search-content {
+	border-radius: 20px;
+    background-color: #a0a0a0;
+    padding-right: 20px;
+    height: 40px;
+    width: 500px;
+    display: flex;
+    border: none;
+    margin-left: 70px;
+}
+.search-content i{
+	font-size: 20px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.search-content input {
+	outline: none;
+    border: 1px #eee;
+	z-index: auto;
+	width: 400px;
+	margin-left: 30px;
+	margin-right: 60px;
+	 background-color: #a0a0a0;
+	 overflow: visible;
+	 
+}

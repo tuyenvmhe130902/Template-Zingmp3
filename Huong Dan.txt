@@ -1,0 +1,32 @@
+-----------------1-----------------
++  Display: flex: sort div 
+-  flex-direction: row(is Default)/colum : sort left to right/up to down;  
+
+-----------------2-----------------
++  justify-content:flex-start(is Default)/end/center : sort left to right/revert/center; 
++  align-items: perpendicular(vuông góc) current vector
+-  align-items: center/start/end 
+
+-----------------3-----------------
++  flex-basis: adjust the length of the div tag;
++  flex-basis: px;
+
+-----------------4-----------------
++  flex-grow: Share length depends on the coefficient(hệ số)
++  flex-grow: number;
+
+-----------------5-----------------
++  flex-string: If length is exceeded, divide width equally div
++  flex-string: number;
+
+-----------------6-----------------
++  order: swap location 
++  order : number;
+
+
+
+
+
+
+
+

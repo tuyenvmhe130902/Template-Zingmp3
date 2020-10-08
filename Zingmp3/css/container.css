@@ -1,0 +1,21 @@
+
+body{
+	margin : 0;
+	padding : 0;
+	background-color: #0D021A;
+}
+.img-ads1 {
+
+}
+.img-ads1 img{
+	width: 120%;
+}
+.Container {
+	position: absolute;
+	margin-left: -1010px;
+	left:50%;
+	margin-top: 0px;
+}
+.ContainerI{
+	margin-left: 489px;
+}
