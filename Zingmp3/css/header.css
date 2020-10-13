@@ -3,6 +3,8 @@
 	display: flex;
 	padding-top: 8px;
 	flex-direction: row;
+	margin: 0 auto;
+	color: #fff;
 }
 .header img{
 	width: 8.8%;
@@ -32,4 +34,27 @@
 	 background-color: #a0a0a0;
 	 overflow: visible;
 	 
+}
+.notifi1 {
+	margin-left: 100px;
+	padding-right: 13px;
+	font-size: 27px;
+	color: #fff;
+	padding-top: 10px;
+}
+.notifi2 {
+	padding-right: 13px;
+	font-size: 27px;
+	color: #fff;
+	padding-top: 10px;
+}
+.user1 {
+	font-size: 27px;
+	color: #fff;
+	padding-top: 10px;
+}
+.login{
+	font-family: sans-serif;
+	padding-top: 15px;
+	padding-left: 13px;
 }

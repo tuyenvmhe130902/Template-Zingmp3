@@ -1,0 +1,30 @@
+
+.menu-bar{
+	color: #fff;
+	font-family: sans-serif;
+}
+.menu {
+	display: flex;
+	list-style: none;	
+	padding: 0px;
+}
+.menu li {
+	padding: 25px 20px;
+	margin-left: -17px;
+}
+.submenu {
+	padding : 0px;
+	position: absolute;
+	display: none;
+}
+.submenu th {
+	padding-top: 10px;
+	padding-right: 60px;
+	padding-bottom: 5px;
+}
+.has-submenu {
+	position: relative;
+}
+.has-submenu:hover .submenu{
+	display: block;
+}
